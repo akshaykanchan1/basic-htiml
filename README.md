@@ -1,2 +1,2 @@
-# basic-htiml
+# basic-html
 bashic html template
